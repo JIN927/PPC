@@ -1,0 +1,96 @@
+compile
+set fork in run := true
+run
+run 0
+run 1
+compile
+set fork in run := true
+run 1
+run 2
+compile
+set fork in run := true
+run 2
+set fork in run := true
+run 3
+set fork in run := true
+run 0
+set fork in run := true
+run 1
+compile
+set fork in run := true
+run
+run 0
+run 1
+compile
+set fork in run := true
+run 1
+compile
+set fork in run := true
+run 0
+compile
+set fork in run := true
+run 1
+compile
+set fork in run := true
+run 0
+compile
+set fork in run := true
+run 1
+compile
+sbt
+compile
+set fork in run := true
+run 1
+compile
+set fork in run := true
+run 1
+compile
+set fork in run := true
+run 0
+compile
+set fork in run := true
+run 1
+compile
+set fork in run := true
+run 0
+compile
+set fork in run := true
+run 0
+compile
+set fork in run := true
+run 0
+compile
+set fork in run := true
+run 1
+compile
+set fork in run := true
+compile
+set fork in run := true
+run 0
+compile
+set fork in run := true
+run 0
+compile
+set fork in run := true
+run 0
+compile
+set fork in run := true
+run 0
+compile
+set fork in run := true
+run 1
+compile
+set fork in run := true
+run 0
+compile
+set fork in run := true
+run 0
+compile
+set fork in run := true
+run 0
+compile
+set fork in run := true
+run 0
+compile
+set fork in run := true
+run 1

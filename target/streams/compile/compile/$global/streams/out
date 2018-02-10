@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/lijuan/Documents/PPC/Scala/Projet_code/Projet_code/src/main/scala/CheckerActor.scala:37:40: value :: is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m                nodesAlive = nodesAlive::nodeId[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/lijuan/Documents/PPC/Scala/Projet_code/Projet_code/src/main/scala/CheckerActor.scala:38:52: value :: is not a member of java.util.Date[0m
+[0m[[0m[31merror[0m] [0m[0m                datesForChecking = datesForChecking::new Date()[0m
+[0m[[0m[31merror[0m] [0m[0m                                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
