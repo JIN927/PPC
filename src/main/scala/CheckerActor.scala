@@ -62,7 +62,7 @@ class CheckerActor (val id:Int, val terminaux:List[Terminal], electionActor:Acto
                 if(this.lastDate.getTime - n.getTime()> time){
                     
                     if (nodesAlive(i)== leader){
-                        println("8888888888888")
+                        println("The leader changed")
                     electionActor ! StartWithNodeList(nodesAlive)
                     }
                     

@@ -44,6 +44,7 @@ class BeatActor (val id:Int) extends Actor {
 				father ! Beat (this.id)
 			}
             //scheduler.scheduleOnce(Const.HEART_BEAT_PERIOD, self, BeatTick)
+            Thread.sleep(time)
             self ! BeatTick
         }
 
